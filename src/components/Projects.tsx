@@ -5,6 +5,8 @@ import { useCallback } from "react";
 
 import salon from "../assets/project-salon.png";
 import ecommerce from "../assets/project-ecommerce.png";
+import school from "../assets/project-school.png";
+
 
 const projects = [
   {
@@ -28,7 +30,7 @@ const projects = [
     href: "https://glowupmensolon-21qe.vercel.app/",
   },
   {
-    id: "",
+    id: "3",
     title: "MS Fashions",
     category: "E-commerce Website",
     description:
