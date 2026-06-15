@@ -9,6 +9,17 @@ import ecommerce from "../assets/project-ecommerce.png";
 const projects = [
   {
     id: "1",
+    title: "Sri Vidyanikethan School",
+    category: "Educational Website",
+    description:
+      "Sri Vidyanikethan Digital Campus – A modern school website featuring admissions, achievements, events, gallery, chatbot, and WhatsApp integration.",
+    image: school,
+    href: "https://srividyanikethanschool.vercel.app/",
+  },
+
+  
+  {
+    id: "2",
     title: "GlowUp Men Salon",
     category: "Salon Website",
     description:
@@ -17,7 +28,7 @@ const projects = [
     href: "https://glowupmensolon-21qe.vercel.app/",
   },
   {
-    id: "2",
+    id: "",
     title: "MS Fashions",
     category: "E-commerce Website",
     description:
