@@ -4,7 +4,7 @@ import logo from "@/assets/zeplio-logo.jpeg";
 const socials = [
   { icon: Github, href: "#", label: "GitHub" },
   { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Instagram, href: "#", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/zeplio_studio", label: "Instagram" },
   { icon: Twitter, href: "#", label: "Twitter" },
 ];
 
